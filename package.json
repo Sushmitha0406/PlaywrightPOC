@@ -1,0 +1,26 @@
+{
+  "name": "PlaywrightPOC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.46.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.1"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushmitha0406/PlaywrightPOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushmitha0406/PlaywrightPOC/issues"
+  },
+  "homepage": "https://github.com/Sushmitha0406/PlaywrightPOC#readme"
+}
